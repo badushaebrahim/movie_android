@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_gravity="center"
+    android:gravity="center"
+    android:layout_height="match_parent"
+    tools:context=".User.Bookingdate">
+    <EditText
+        android:id="@+id/price"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColorHint="#000"
+        android:textColor="#000"
+        android:inputType="numberDecimal"
+        android:hint="price"
+        android:focusableInTouchMode="false"
+        android:background="@drawable/edittextdesigin"
+        android:layout_marginRight="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="20dp"
+        android:padding="10dp"/>
+    <EditText
+        android:id="@+id/nticket"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColorHint="#000"
+        android:textColor="#000"
+        android:inputType="numberDecimal"
+        android:hint="no.of tickets"
+
+        android:background="@drawable/edittextdesigin"
+        android:layout_marginRight="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="20dp"
+        android:padding="10dp"/>
+
+    <EditText
+        android:id="@+id/cdate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColorHint="#000"
+        android:textColor="#000"
+        android:inputType="textPersonName"
+        android:hint="Booking Date"
+        android:focusableInTouchMode="false"
+        android:background="@drawable/edittextdesigin"
+        android:layout_marginRight="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="20dp"
+        android:padding="10dp"/>
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:textColor="#0691EF"
+        android:textStyle="bold"
+        android:textSize="25dp"
+        android:layout_height="wrap_content"
+        android:text="Pay Now" />
+
+    <EditText
+        android:id="@+id/cno"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:ems="10"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="30dp"
+        android:padding="5dp"
+        android:layout_marginRight="30dp"
+        android:background="@drawable/edittextdesigin"
+        android:inputType="numberPassword"
+        android:maxLength="12"
+        android:hint="Enter your Card Number" />
+    <EditText
+        android:id="@+id/cvv"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:ems="10"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="30dp"
+        android:padding="5dp"
+        android:layout_marginRight="30dp"
+        android:background="@drawable/edittextdesigin"
+        android:inputType="numberPassword"
+        android:maxLength="3"
+        android:hint="Enter your cvv" />
+    <EditText
+        android:id="@+id/exp"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:ems="10"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="30dp"
+        android:padding="5dp"
+        android:layout_marginRight="30dp"
+        android:background="@drawable/edittextdesigin"
+        android:inputType="datetime"
+        android:maxLength="10"
+        android:hint="Enter your card expiry" />
+
+
+    <EditText
+        android:id="@+id/Amt"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:ems="10"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="30dp"
+        android:padding="5dp"
+        android:layout_marginRight="30dp"
+        android:background="@drawable/edittextdesigin"
+        android:inputType="number"
+        android:hint="Enter amount" />
+
+    <Button
+        android:id="@+id/pay"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:backgroundTint="#00BAF3"
+        android:text="Pay" />
+
+
+</LinearLayout>

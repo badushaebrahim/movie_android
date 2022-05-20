@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView android:id="@+id/cardprice"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    app:cardCornerRadius="15dp"
+    android:elevation="15dp"
+    app:cardBackgroundColor="#FFFFFF"
+    android:layout_height="wrap_content"
+    android:layout_margin="10dp"
+    android:background="@drawable/edittextdesigin">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            >
+            <TextView
+                android:id="@+id/playcount"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:drawableLeft="@drawable/play"
+                android:text="25"
+                android:padding="10dp"
+                android:textColor="#0D130B">
+
+            </TextView>
+            <TextView
+                android:id="@+id/usercount"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:drawableLeft="@drawable/user1"
+                android:text="25"
+                android:padding="10dp"
+                android:textColor="#0D130B"/>
+            <RatingBar
+                android:id="@+id/rating"
+                android:layout_width="wrap_content"
+                android:layout_height="40dp"
+                android:layout_marginTop="5dp"
+                android:numStars="5"
+                android:layout_marginLeft="20dp"
+                android:foregroundGravity="right"
+                android:layout_gravity="right">
+
+            </RatingBar>
+
+        </LinearLayout>
+
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:id="@+id/dimg"
+                android:layout_width="110dp"
+                android:layout_height="150dp"
+                android:layout_gravity="center"
+                android:src="@drawable/music"/>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="15dp"
+                android:layout_gravity="center"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/dname"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text=" Name :"
+                    android:textColor="#3C2E11">
+
+                </TextView>
+
+                <TextView
+                    android:id="@+id/dedu"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Education :"
+                    android:textColor="#0D130B">
+
+                </TextView>
+                <TextView
+                    android:id="@+id/dsp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="specialization :"
+                    android:textColor="#0D130B">
+
+                </TextView>
+                <TextView
+                    android:id="@+id/email"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Email:"
+                    android:textColor="#0D130B">
+
+                </TextView>
+                <TextView
+                    android:id="@+id/dphon"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Phone Number:"
+                    android:textColor="#0D130B">
+
+                </TextView>
+                <TextView
+                    android:id="@+id/lan"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Language:"
+                    android:textColor="#0D130B">
+
+                </TextView>
+
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+</androidx.cardview.widget.CardView>

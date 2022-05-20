@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_marginTop="25dp"
+
+    tools:context=".Admin.AddTheater">
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:gravity="center"
+        android:text="Add Theaters"
+        android:textColor="#000"
+        android:textSize="25dp" />
+
+
+
+    <EditText
+        android:id="@+id/tname"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="30dp"
+        android:background="@drawable/edittextdesigin"
+        android:ems="10"
+        android:hint="Theater name"
+        android:inputType="textPersonName"
+        tools:layout_editor_absoluteX="110dp"
+        tools:layout_editor_absoluteY="219dp" />
+
+
+
+    <EditText
+        android:id="@+id/scap"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="30dp"
+        android:background="@drawable/edittextdesigin"
+        android:ems="10"
+        android:hint="Seat capacity"
+        android:inputType="number"
+        tools:layout_editor_absoluteX="120dp"
+        tools:layout_editor_absoluteY="311dp" />
+
+    <EditText
+        android:id="@+id/saddress"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="30dp"
+        android:background="@drawable/edittextdesigin"
+        android:ems="10"
+        android:hint="Theater address"
+        android:inputType="textPersonName"
+        tools:layout_editor_absoluteX="120dp"
+        tools:layout_editor_absoluteY="311dp" />
+
+    <EditText
+        android:id="@+id/tphone"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="30dp"
+        android:background="@drawable/edittextdesigin"
+        android:ems="10"
+        android:hint="Theater phone"
+        android:inputType="textPersonName"
+        tools:layout_editor_absoluteX="120dp"
+        tools:layout_editor_absoluteY="311dp" />
+
+    <EditText
+        android:id="@+id/uname"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="30dp"
+        android:background="@drawable/edittextdesigin"
+        android:ems="10"
+        android:hint="Theater username"
+        android:inputType="textPersonName"
+        tools:layout_editor_absoluteX="120dp"
+        tools:layout_editor_absoluteY="311dp" />
+    <EditText
+        android:id="@+id/pass"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="30dp"
+        android:background="@drawable/edittextdesigin"
+        android:ems="10"
+        android:hint="Theater password"
+        android:inputType="textPassword"
+        tools:layout_editor_absoluteX="120dp"
+        tools:layout_editor_absoluteY="311dp" />
+
+    <Button
+        android:id="@+id/btnadd"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="30dp"
+        android:backgroundTint="#204D9C"
+        android:ems="10"
+        android:hint="Movie/Alubum Director"
+        android:text="Add"
+        android:layout_marginBottom="50dp"
+        android:textColor="#fff" />
+
+
+</LinearLayout>
+
+</androidx.core.widget.NestedScrollView>

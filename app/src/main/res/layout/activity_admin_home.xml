@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@drawable/bg"
+    android:layout_height="match_parent"
+    tools:context=".Admin.AdminHome">
+<TableLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/edittextdesigin"
+    >
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:layout_height="wrap_content">
+    <TextView
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#000"
+        android:textSize="25dp"
+        android:layout_margin="10dp"
+        android:text="Welcome ADMIN"
+        /></TableRow>
+<TableRow
+    android:layout_width="match_parent"
+    android:layout_gravity="center"
+    android:gravity="center"
+    android:background="@drawable/edittextdesigin"
+    android:layout_height="wrap_content">
+    <ImageView
+        android:id="@+id/uemogy"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_margin="10dp"
+        android:padding="10dp"
+        app:srcCompat="@drawable/icon"
+       />
+
+    <ImageView
+        android:id="@+id/umusic"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:text="upload"
+        android:layout_margin="10dp"
+        android:padding="10dp"
+        app:srcCompat="@drawable/thet"
+        android:backgroundTint="#0355FA"
+       />
+
+</TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="@drawable/edittextdesigin"
+        android:gravity="center">
+        <TextView
+           android:text="Add Movies"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:textSize="15dp"
+            android:gravity="center"
+            android:textColor="#000"
+            />
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Add theaters"
+            android:layout_margin="10dp"
+            android:backgroundTint="#0355FA"
+            android:textSize="15dp"
+            android:textColor="#000"
+            />
+
+    </TableRow>
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center">
+
+
+        <ImageView
+            android:id="@+id/vmusic"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:text="upload"
+            app:srcCompat="@drawable/icon"
+            android:layout_margin="10dp"
+            android:padding="10dp"
+            android:backgroundTint="#0355FA"
+            />
+        <ImageView
+            android:id="@+id/assign"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:text="upload"
+            app:srcCompat="@drawable/watch"
+            android:layout_margin="10dp"
+            android:padding="10dp"
+            android:backgroundTint="#0355FA"
+            />
+    </TableRow>
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center">
+
+
+        <TextView
+            android:gravity="center"
+            android:layout_margin="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="All Movies"
+            android:backgroundTint="#0355FA"
+            android:textSize="15dp"
+            android:textColor="#000"
+            />
+        <TextView
+            android:gravity="center"
+            android:layout_margin="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Assign Movies"
+            android:backgroundTint="#0355FA"
+            android:textSize="15dp"
+            android:textColor="#000"
+            />
+    </TableRow>
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center">
+
+
+        <ImageView
+            android:id="@+id/vtheater"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:text="upload"
+            app:srcCompat="@drawable/thet"
+            android:layout_margin="10dp"
+            android:padding="10dp"
+            android:backgroundTint="#0355FA"
+            />
+
+    </TableRow>
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center">
+
+
+        <TextView
+            android:gravity="center"
+            android:layout_margin="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="All Theaters"
+            android:backgroundTint="#0355FA"
+            android:textSize="15dp"
+            android:textColor="#000"
+            />
+
+    </TableRow>
+</TableLayout>
+</androidx.core.widget.NestedScrollView>

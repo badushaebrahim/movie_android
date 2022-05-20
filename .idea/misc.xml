@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Mainproject/Moviez/app/src/main/res/layout/activity_register.xml" value="0.26902173913043476" />
+        <entry key="..\:/Users/NTWON TECHNOLOGIES/AndroidStudioProjects/Emojify/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1935185185185185" />
+        <entry key="..\:/Users/NTWON TECHNOLOGIES/AndroidStudioProjects/Emojify/app/src/main/res/drawable/edittextdesigin.xml" value="0.18888888888888888" />
+        <entry key="..\:/Users/NTWON TECHNOLOGIES/AndroidStudioProjects/Emojify/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1125" />
+        <entry key="..\:/Users/NTWON TECHNOLOGIES/AndroidStudioProjects/Emojify/app/src/main/res/layout/activity_add_emogy.xml" value="0.16" />
+        <entry key="..\:/Users/NTWON TECHNOLOGIES/AndroidStudioProjects/Emojify/app/src/main/res/layout/activity_add_music_list.xml" value="0.22" />
+        <entry key="..\:/Users/NTWON TECHNOLOGIES/AndroidStudioProjects/Emojify/app/src/main/res/layout/activity_admin_home.xml" value="0.16" />
+        <entry key="..\:/Users/NTWON TECHNOLOGIES/AndroidStudioProjects/Emojify/app/src/main/res/layout/activity_changelanguage.xml" value="0.15172101449275363" />
+        <entry key="..\:/Users/NTWON TECHNOLOGIES/AndroidStudioProjects/Emojify/app/src/main/res/layout/activity_chat_bot.xml" value="0.18" />
+        <entry key="..\:/Users/NTWON TECHNOLOGIES/AndroidStudioProjects/Emojify/app/src/main/res/layout/activity_comparison_music.xml" value="0.1408514492753623" />
+        <entry key="..\:/Users/NTWON TECHNOLOGIES/AndroidStudioProjects/Emojify/app/src/main/res/layout/activity_emotion_search.xml" value="0.15172101449275363" />
+        <entry key="..\:/Users/NTWON TECHNOLOGIES/AndroidStudioProjects/Emojify/app/src/main/res/layout/activity_emotionmusic.xml" value="0.1234375" />
+        <entry key="..\:/Users/NTWON TECHNOLOGIES/AndroidStudioProjects/Emojify/app/src/main/res/layout/activity_home_page.xml" value="0.22" />
+        <entry key="..\:/Users/NTWON TECHNOLOGIES/AndroidStudioProjects/Emojify/app/src/main/res/layout/activity_language_chooser.xml" value="0.25" />
+        <entry key="..\:/Users/NTWON TECHNOLOGIES/AndroidStudioProjects/Emojify/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/Users/NTWON TECHNOLOGIES/AndroidStudioProjects/Emojify/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/NTWON TECHNOLOGIES/AndroidStudioProjects/Emojify/app/src/main/res/layout/activity_play_music.xml" value="0.18" />
+        <entry key="..\:/Users/NTWON TECHNOLOGIES/AndroidStudioProjects/Emojify/app/src/main/res/layout/activity_register.xml" value="0.18" />
+        <entry key="..\:/Users/NTWON TECHNOLOGIES/AndroidStudioProjects/Emojify/app/src/main/res/layout/activity_user_play_music.xml" value="0.15172101449275363" />
+        <entry key="..\:/Users/NTWON TECHNOLOGIES/AndroidStudioProjects/Emojify/app/src/main/res/layout/activity_view_all_emogies.xml" value="0.11548913043478261" />
+        <entry key="..\:/Users/NTWON TECHNOLOGIES/AndroidStudioProjects/Emojify/app/src/main/res/layout/activity_view_all_musics.xml" value="0.11548913043478261" />
+        <entry key="..\:/Users/NTWON TECHNOLOGIES/AndroidStudioProjects/Emojify/app/src/main/res/layout/activity_view_reviews.xml" value="0.11548913043478261" />
+        <entry key="..\:/Users/NTWON TECHNOLOGIES/AndroidStudioProjects/Emojify/app/src/main/res/layout/activity_welcome_page.xml" value="0.18" />
+        <entry key="..\:/Users/NTWON TECHNOLOGIES/AndroidStudioProjects/Emojify/app/src/main/res/layout/activity_writereview.xml" value="0.2" />
+        <entry key="..\:/Users/NTWON TECHNOLOGIES/AndroidStudioProjects/Emojify/app/src/main/res/layout/custom_emoji.xml" value="0.25" />
+        <entry key="..\:/Users/NTWON TECHNOLOGIES/AndroidStudioProjects/Emojify/app/src/main/res/layout/custom_emotion.xml" value="0.15172101449275363" />
+        <entry key="..\:/Users/NTWON TECHNOLOGIES/AndroidStudioProjects/Emojify/app/src/main/res/layout/custom_music.xml" value="0.22" />
+        <entry key="..\:/Users/NTWON TECHNOLOGIES/AndroidStudioProjects/Emojify/app/src/main/res/layout/custom_recomendations.xml" value="0.22" />
+        <entry key="..\:/Users/NTWON TECHNOLOGIES/AndroidStudioProjects/Emojify/app/src/main/res/layout/custom_review.xml" value="0.14" />
+        <entry key="..\:/Users/NTWON TECHNOLOGIES/AndroidStudioProjects/Emojify/app/src/main/res/menu/log.xml" value="0.25" />
+        <entry key="..\:/Users/NTWON TECHNOLOGIES/AndroidStudioProjects/Emojify/app/src/main/res/menu/logs.xml" value="0.17395833333333333" />
+        <entry key="..\:/Users/NTWON TECHNOLOGIES/AndroidStudioProjects/Moviez/app/src/main/res/layout/activity_add_emogy.xml" value="0.22" />
+        <entry key="..\:/Users/NTWON TECHNOLOGIES/AndroidStudioProjects/Moviez/app/src/main/res/layout/activity_add_fare.xml" value="0.25" />
+        <entry key="..\:/Users/NTWON TECHNOLOGIES/AndroidStudioProjects/Moviez/app/src/main/res/layout/activity_add_music_list.xml" value="0.25" />
+        <entry key="..\:/Users/NTWON TECHNOLOGIES/AndroidStudioProjects/Moviez/app/src/main/res/layout/activity_admin_home.xml" value="0.25" />
+        <entry key="..\:/Users/NTWON TECHNOLOGIES/AndroidStudioProjects/Moviez/app/src/main/res/layout/activity_assign_movie.xml" value="0.25" />
+        <entry key="..\:/Users/NTWON TECHNOLOGIES/AndroidStudioProjects/Moviez/app/src/main/res/layout/activity_bookingdate.xml" value="0.25" />
+        <entry key="..\:/Users/NTWON TECHNOLOGIES/AndroidStudioProjects/Moviez/app/src/main/res/layout/activity_custom_book.xml" value="0.12273550724637682" />
+        <entry key="..\:/Users/NTWON TECHNOLOGIES/AndroidStudioProjects/Moviez/app/src/main/res/layout/activity_get_shows.xml" value="0.12273550724637682" />
+        <entry key="..\:/Users/NTWON TECHNOLOGIES/AndroidStudioProjects/Moviez/app/src/main/res/layout/activity_get_theaters.xml" value="0.12273550724637682" />
+        <entry key="..\:/Users/NTWON TECHNOLOGIES/AndroidStudioProjects/Moviez/app/src/main/res/layout/activity_home_page.xml" value="0.12273550724637682" />
+        <entry key="..\:/Users/NTWON TECHNOLOGIES/AndroidStudioProjects/Moviez/app/src/main/res/layout/activity_login.xml" value="0.18" />
+        <entry key="..\:/Users/NTWON TECHNOLOGIES/AndroidStudioProjects/Moviez/app/src/main/res/layout/activity_main.xml" value="0.12" />
+        <entry key="..\:/Users/NTWON TECHNOLOGIES/AndroidStudioProjects/Moviez/app/src/main/res/layout/activity_my_bookings.xml" value="0.1140625" />
+        <entry key="..\:/Users/NTWON TECHNOLOGIES/AndroidStudioProjects/Moviez/app/src/main/res/layout/activity_our_bookings.xml" value="0.12273550724637682" />
+        <entry key="..\:/Users/NTWON TECHNOLOGIES/AndroidStudioProjects/Moviez/app/src/main/res/layout/activity_our_movies.xml" value="0.12273550724637682" />
+        <entry key="..\:/Users/NTWON TECHNOLOGIES/AndroidStudioProjects/Moviez/app/src/main/res/layout/activity_theater_home.xml" value="0.25" />
+        <entry key="..\:/Users/NTWON TECHNOLOGIES/AndroidStudioProjects/Moviez/app/src/main/res/layout/activity_vadd_showtime.xml" value="0.33" />
+        <entry key="..\:/Users/NTWON TECHNOLOGIES/AndroidStudioProjects/Moviez/app/src/main/res/layout/activity_view_all_emogies.xml" value="0.12273550724637682" />
+        <entry key="..\:/Users/NTWON TECHNOLOGIES/AndroidStudioProjects/Moviez/app/src/main/res/layout/activity_view_all_musics.xml" value="0.12273550724637682" />
+        <entry key="..\:/Users/NTWON TECHNOLOGIES/AndroidStudioProjects/Moviez/app/src/main/res/layout/activity_view_fare.xml" value="0.12273550724637682" />
+        <entry key="..\:/Users/NTWON TECHNOLOGIES/AndroidStudioProjects/Moviez/app/src/main/res/layout/activity_view_show_time.xml" value="0.12273550724637682" />
+        <entry key="..\:/Users/NTWON TECHNOLOGIES/AndroidStudioProjects/Moviez/app/src/main/res/layout/activity_welcome_page.xml" value="0.18" />
+        <entry key="..\:/Users/NTWON TECHNOLOGIES/AndroidStudioProjects/Moviez/app/src/main/res/layout/custom_book.xml" value="0.18" />
+        <entry key="..\:/Users/NTWON TECHNOLOGIES/AndroidStudioProjects/Moviez/app/src/main/res/layout/custom_emoji.xml" value="0.25" />
+        <entry key="..\:/Users/NTWON TECHNOLOGIES/AndroidStudioProjects/Moviez/app/src/main/res/layout/custom_emotion.xml" value="0.12273550724637682" />
+        <entry key="..\:/Users/NTWON TECHNOLOGIES/AndroidStudioProjects/Moviez/app/src/main/res/layout/custom_fare.xml" value="0.25" />
+        <entry key="..\:/Users/NTWON TECHNOLOGIES/AndroidStudioProjects/Moviez/app/src/main/res/layout/custom_music.xml" value="0.25" />
+        <entry key="..\:/Users/NTWON TECHNOLOGIES/AndroidStudioProjects/Moviez/app/src/main/res/layout/custom_recomendations.xml" value="0.12273550724637682" />
+        <entry key="..\:/Users/NTWON TECHNOLOGIES/AndroidStudioProjects/Moviez/app/src/main/res/layout/custom_review.xml" value="0.12273550724637682" />
+        <entry key="..\:/Users/NTWON TECHNOLOGIES/AndroidStudioProjects/Moviez/app/src/main/res/layout/custom_show.xml" value="0.22" />
+        <entry key="..\:/Users/NTWON TECHNOLOGIES/AndroidStudioProjects/Moviez/app/src/main/res/menu/log.xml" value="0.128125" />
+        <entry key="..\:/Users/NTWON TECHNOLOGIES/AndroidStudioProjects/Moviez/app/src/main/res/menu/logs.xml" value="0.128125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

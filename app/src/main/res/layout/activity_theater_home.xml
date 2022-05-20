@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@drawable/bg"
+    android:layout_height="match_parent"
+    tools:context=".Admin.AdminHome">
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+
+        >
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:background="@drawable/edittextdesigin"
+            android:layout_height="wrap_content">
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#000"
+                android:textSize="25dp"
+                android:layout_margin="10dp"
+                android:text="Welcome Theater"
+                /></TableRow>
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_gravity="center"
+            android:gravity="center"
+
+            android:layout_height="wrap_content">
+            <ImageView
+                android:id="@+id/omovies"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:layout_margin="10dp"
+                android:padding="10dp"
+                app:srcCompat="@drawable/icon"
+                />
+
+            <ImageView
+                android:id="@+id/obook"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:text="upload"
+                android:layout_margin="10dp"
+                android:background="@drawable/edittextdesigin"
+                android:padding="10dp"
+                app:srcCompat="@drawable/thet"
+
+                />
+
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+
+            android:gravity="center">
+            <TextView
+                android:text="Our Movies"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:textSize="15dp"
+                android:background="@drawable/edittextdesigin"
+                android:gravity="center"
+                android:textColor="#000"
+                />
+
+            <TextView
+                android:gravity="center"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Our Bookings"
+                android:layout_margin="10dp"
+                android:background="@drawable/edittextdesigin"
+                android:textSize="15dp"
+                android:textColor="#000"
+                />
+
+        </TableRow>
+        <TableRow
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+
+            android:gravity="center">
+
+
+            <ImageView
+                android:id="@+id/atime"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:text="upload"
+                android:background="@drawable/edittextdesigin"
+                app:srcCompat="@drawable/watch"
+                android:layout_margin="10dp"
+                android:padding="10dp"
+
+                />
+            <ImageView
+                android:id="@+id/afare"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:text="upload"
+                android:background="@drawable/edittextdesigin"
+                app:srcCompat="@drawable/money"
+                android:layout_margin="10dp"
+                android:padding="10dp"
+
+                />
+
+        </TableRow>
+        <TableRow
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center">
+
+
+            <TextView
+                android:gravity="center"
+                android:layout_margin="10dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Add Show timings"
+                android:background="@drawable/edittextdesigin"
+                android:textSize="15dp"
+                android:textColor="#000"
+                />
+            <TextView
+                android:gravity="center"
+                android:layout_margin="10dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Add Movie fare"
+                android:background="@drawable/edittextdesigin"
+                android:textSize="15dp"
+                android:textColor="#000"
+                />
+        </TableRow>
+        <TableRow
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+
+            android:gravity="center">
+
+
+            <ImageView
+                android:id="@+id/vstime"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:text="upload"
+                android:background="@drawable/edittextdesigin"
+                app:srcCompat="@drawable/watch"
+                android:layout_margin="10dp"
+                android:padding="10dp"
+
+                />
+            <ImageView
+                android:id="@+id/vfare"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:text="upload"
+                android:background="@drawable/edittextdesigin"
+                app:srcCompat="@drawable/money"
+                android:layout_margin="10dp"
+                android:padding="10dp"
+
+                />
+
+        </TableRow>
+        <TableRow
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center">
+
+
+            <TextView
+                android:gravity="center"
+                android:layout_margin="10dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="View Show timings"
+                android:background="@drawable/edittextdesigin"
+                android:textSize="15dp"
+                android:textColor="#000"
+                />
+            <TextView
+                android:gravity="center"
+                android:layout_margin="10dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="view Movie fare"
+                android:background="@drawable/edittextdesigin"
+                android:textSize="15dp"
+                android:textColor="#000"
+                />
+        </TableRow>
+    </TableLayout>
+</androidx.core.widget.NestedScrollView>
